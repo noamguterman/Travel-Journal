@@ -90,6 +90,7 @@ hr {
     border: none;
     height: 1.5px;
     background-color: #F5F5F5;
-    width: 30rem;
+    width: 80%;
+    max-width: 30rem;
     margin: auto;
 }
